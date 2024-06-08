@@ -1,0 +1,14 @@
+.stopwatch {
+    font-size: 5em;
+    text-align: center;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 10px; /* Add some margin to create space below the buttons */
+}
+
+button {
+    margin: 5px; /* Add some margin around each button */
+    font-size: large;
+}
